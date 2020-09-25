@@ -51,5 +51,6 @@ Application based on cloth Manufacturing unit (Inventory management system) from
 # Important Links
     
 https://www.npmjs.com/  for packages.                                                                       
-https://react-bootstrap.github.io/ for frontend Design.                                                 
-https://www.emailjs.com/ for sending mail.                                                             
+https://react-bootstrap.github.io/  React Bootstrap for frontend design.                                                 
+https://www.emailjs.com/  for sending mail.                                                                                 
+https://mdbootstrap.com/ for frontend design.                                           
