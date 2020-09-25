@@ -3,10 +3,10 @@ Application based on cloth Manufacturing unit (Inventory management system) from
 
 
 # Technology in use
-React JS
-Node JS
-Express JS
-MongoDB 
+    React JS
+    Node JS
+    Express JS
+    MongoDB 
 
 
 # Packages 
