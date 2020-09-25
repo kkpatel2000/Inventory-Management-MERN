@@ -54,3 +54,6 @@ https://www.npmjs.com/  for packages.
 https://react-bootstrap.github.io/  React Bootstrap for frontend design.                                                 
 https://www.emailjs.com/  for sending mail.                                                                                 
 https://mdbootstrap.com/ for frontend design.                                           
+https://reactjs.org/   React JS.                                                             
+https://nodejs.org/    Node JS.                                                                
+https://www.mongodb.com/  mongoDB.
