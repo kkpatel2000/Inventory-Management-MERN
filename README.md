@@ -35,7 +35,7 @@ Application based on cloth Manufacturing unit (Inventory management system) from
     react-icons
     react-native
     react-native-searchable-dropdown 
-    "react-notifications 
+    react-notifications 
     react-redux
     react-router-dom
     react-scripts
@@ -47,3 +47,10 @@ Application based on cloth Manufacturing unit (Inventory management system) from
     semantic-ui-react
     styled-components
     uuidv4
+
+# Important Links
+    
+    https://www.google.com/
+    https://www.npmjs.com/ for packages.
+    https://react-bootstrap.github.io/ for frontend Design.
+    https://www.emailjs.com/ for sending mail.
