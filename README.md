@@ -11,6 +11,39 @@ MongoDB
 
 # Packages 
 
-react  (create-react-app)
-node
-
+    axios
+    bootstrap
+    emailjs
+    emailjs-com
+    faker
+    jspdf
+    lodash
+    material-ui-icons
+    materialize-css
+    mdbreact
+    multiselect-react-dropdown
+    ng2-search-filter
+    node-sass
+    nodemailer-sendgrid-transport
+    prop-types
+    react
+    react-beautiful-dnd
+    react-bootstrap
+    react-dates
+    react-dom
+    react-dropdown 
+    react-icons
+    react-native
+    react-native-searchable-dropdown 
+    "react-notifications 
+    react-redux
+    react-router-dom
+    react-scripts
+    react-select
+    react-table
+    react-toastify
+    reactstrap
+    semantic-ui-css
+    semantic-ui-react
+    styled-components
+    uuidv4
