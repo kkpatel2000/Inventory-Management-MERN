@@ -51,10 +51,6 @@ $ npm nodemon
 $ nodemon server
 ```
 
-# Software in Use
-
-VS Code  https://code.visualstudio.com/                                                          
-Postman  https://www.postman.com/   for API development.
 
 # Packages 
 
