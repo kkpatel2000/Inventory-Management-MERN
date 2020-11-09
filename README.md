@@ -10,13 +10,13 @@ Application based on cloth Manufacturing unit (Inventory management system) from
 ## Frontend(React)
 
 - [axios](https://github.com/axios/axios)
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+- [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware)
 - [React](https://reactjs.org/)
 ## Backend
 
 - [nodejs](https://nodejs.org/en/)
 - [express](https://gulpjs.com/)
-- [mongodb](https://webpack.js.org/concepts/)
+- [mongodb](https://www.mongodb.com/)
 
 Check [`package.json`](https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/package.json) file for more information.
 
