@@ -15,10 +15,11 @@ Application based on cloth Manufacturing unit (Inventory management system) from
 ## Backend
 
 - [nodejs](https://nodejs.org/en/)
-- [express](https://gulpjs.com/)
+- [express]
 - [mongodb](https://www.mongodb.com/)
 
-Check [`package.json`](https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/package.json) file for more information.
+Check for client [`package.json`](https://github.com/kkpatel2000/Inventory-Management-MERN/blob/master/Client/package%20.json) file for more information.
+server [`package.json`](https://github.com/kkpatel2000/Inventory-Management-MERN/blob/master/Server/package%20.json) file for more information.
 
 ## Installation
 
