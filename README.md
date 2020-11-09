@@ -1,7 +1,65 @@
-# Inventory-Management-MERN
+# Cloth Manufacturing Management system
 Application based on cloth Manufacturing unit (Inventory management system) from surat textile units. with React JS, Node JS, Express and MongoDB.
+# Technologies
 
+## Frontend(React)
 
+- [axios](https://github.com/axios/axios)
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+- [React](https://reactjs.org/)
+## Backend
+
+- [nodejs](https://nodejs.org/en/)
+- [express](https://gulpjs.com/)
+- [mongodb](https://webpack.js.org/concepts/)
+
+Check [`package.json`](https://github.com/Hsins/udemy_MERN-Todo-List/blob/master/package.json) file for more information.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+1. Install dependencies via NPM or Yarn
+
+```bash
+# Install dependencies via npm
+$ npm install
+$ cd client
+$ npm install
+$ cd ..
+$ npm start
+
+site will be live on localhost:3000
+
+# Install dependencies via yarn
+$ yarn install
+$ cd client
+$ yarn install
+$ cd ..
+```
+
+2. Run the server.
+
+```bash
+# Run server
+$ npm nodemon
+$ nodemon server
+```
+
+# Important Links
+    
+https://www.npmjs.com/  for packages.                                                                       
+https://react-bootstrap.github.io/  React Bootstrap for frontend design.                                                 
+https://www.emailjs.com/  for sending mail.                                                                                 
+https://mdbootstrap.com/ for frontend design.                                           
+https://reactjs.org/   React JS.                                                             
+https://nodejs.org/    Node JS.                                                                
+https://www.mongodb.com/  mongoDB.
+
+# Software in Use
+
+VS Code  https://code.visualstudio.com/                                                          
+Postman  https://www.postman.com/   for API development.
 # Technology in use
     React JS
     Node JS
