@@ -1,6 +1,11 @@
 # Cloth Manufacturing Management system
 Application based on cloth Manufacturing unit (Inventory management system) from surat textile units. with React JS, Node JS, Express and MongoDB.
-# Technologies
+
+# Technology in use
+    React JS
+    Node JS
+    Express JS
+    MongoDB 
 
 ## Frontend(React)
 
@@ -34,8 +39,8 @@ site will be live on localhost:3000
 # Install dependencies via yarn
 $ yarn install
 $ cd client
-$ yarn install
 $ cd ..
+$ init server
 ```
 
 2. Run the server.
@@ -46,26 +51,10 @@ $ npm nodemon
 $ nodemon server
 ```
 
-# Important Links
-    
-https://www.npmjs.com/  for packages.                                                                       
-https://react-bootstrap.github.io/  React Bootstrap for frontend design.                                                 
-https://www.emailjs.com/  for sending mail.                                                                                 
-https://mdbootstrap.com/ for frontend design.                                           
-https://reactjs.org/   React JS.                                                             
-https://nodejs.org/    Node JS.                                                                
-https://www.mongodb.com/  mongoDB.
-
 # Software in Use
 
 VS Code  https://code.visualstudio.com/                                                          
 Postman  https://www.postman.com/   for API development.
-# Technology in use
-    React JS
-    Node JS
-    Express JS
-    MongoDB 
-
 
 # Packages 
 
