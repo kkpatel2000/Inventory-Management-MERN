@@ -106,3 +106,16 @@ https://www.mongodb.com/  mongoDB.
 
 VS Code  https://code.visualstudio.com/                                                          
 Postman  https://www.postman.com/   for API development.
+
+## Project Information
+
+### Prepared by
+
+Jay Bhingaradia, Kishan Bhingradiya
+### Under the guidance of
+
+Prof. (Dr.) Vipul Dabhi - Associate Professor & Head, IT Dept., DDU
+
+### Prepared for
+
+System Design Practice - Information Technology - Sem VI Dharmsinh Desai University
